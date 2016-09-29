@@ -2567,5 +2567,12 @@
     "owner": "sonburn",
     "author": "Jason Burns",
     "lastUpdated": "2016-09-28 11:38:07 UTC"
+  },
+  {
+    "description": "Load images from UI Faces",
+    "name": "uifaces",
+    "owner": "tjerabek",
+    "author": "Tomas Jerabek",
+    "lastUpdated": "2016-09-29 11:38:07 UTC"
   }
 ]
